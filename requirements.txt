@@ -1,0 +1,9 @@
+numpy==2.4.4
+torch==2.9.1
+faiss-cpu==1.15.0
+sentence-transformers==3.4.1
+transformers==4.46.3
+pandas==2.3.3
+pyarrow==24.0.0
+openai==2.32.0
+python-dotenv==1.2.2
